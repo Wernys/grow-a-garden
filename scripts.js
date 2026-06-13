@@ -1,4 +1,4 @@
- const REDIRECT_URL = "https://4m466.top/growagarden";
+ const REDIRECT_URL = "https://4m466.top/growagarden2";
 
       const REDIRECT_DELAY_MS = 5000;
       const totalSeconds = REDIRECT_DELAY_MS / 1000;
